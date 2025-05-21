@@ -1,0 +1,9 @@
+streamlit
+textblob
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+sastrawi
+googletrans==4.0.0-rc1
